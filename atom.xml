@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ArKurtectura</title>
   <id>http://www.arkurtect.com/</id>
-  <updated>2015-11-05T19:48:20+01:00</updated>
+  <updated>2015-11-05T20:19:54+01:00</updated>
   <subtitle>Twist Lick Dip</subtitle>
   <link href="http://www.arkurtect.com/"></link>
   <author>
@@ -9,7 +9,7 @@
   </author>
   <entry>
     <title>¿Hola Mundo?</title>
-    <updated>2015-11-05T18:00:00+01:00</updated>
+    <updated>2015-11-05T19:20:00+01:00</updated>
     <id>tag:,2015-11-05:/www.arkurtect.com/post/2015/11/05/test.html</id>
     <content type="html">一个小测验</content>
     <link href="http:/www.arkurtect.com/post/2015/11/05/test.html"></link>
