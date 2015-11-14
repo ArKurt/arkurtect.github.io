@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ArKurtectura</title>
-  <id>http://www.arkurtect.com/</id>
-  <updated>2015-11-14T22:45:00+01:00</updated>
+  <id>http://arkurtect.com/</id>
+  <updated>2015-11-14T22:46:33+01:00</updated>
   <subtitle>Twist Lick Dip</subtitle>
-  <link href="http://www.arkurtect.com/"></link>
+  <link href="http://arkurtect.com/"></link>
   <author>
     <name>ArKurtectura</name>
   </author>
   <entry>
     <title>一件小事</title>
     <updated>1970-01-01T01:00:00+01:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/14/一件小事.html</id>
+    <id>tag:,1970-01-01:/arkurtect.com/post/2015/11/14/一件小事.html</id>
     <content type="html"></content>
-    <link href="http:/www.arkurtect.com/post/2015/11/14/一件小事.html"></link>
+    <link href="http:/arkurtect.com/post/2015/11/14/一件小事.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -20,9 +20,9 @@
   <entry>
     <title>听听看看</title>
     <updated>1970-01-01T01:00:00+01:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/11/mana.html</id>
+    <id>tag:,1970-01-01:/arkurtect.com/post/2015/11/11/mana.html</id>
     <content type="html">最近在听的</content>
-    <link href="http:/www.arkurtect.com/post/2015/11/11/mana.html"></link>
+    <link href="http:/arkurtect.com/post/2015/11/11/mana.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -30,9 +30,9 @@
   <entry>
     <title>La lista de Alex</title>
     <updated>2015-11-13T00:00:00+01:00</updated>
-    <id>tag:,2015-11-13:/www.arkurtect.com/post/2015/11/11/alex list.html</id>
+    <id>tag:,2015-11-13:/arkurtect.com/post/2015/11/11/alex list.html</id>
     <content type="html">unos arquitectos españoles contemporáneos</content>
-    <link href="http:/www.arkurtect.com/post/2015/11/11/alex list.html"></link>
+    <link href="http:/arkurtect.com/post/2015/11/11/alex list.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -40,9 +40,9 @@
   <entry>
     <title>¿Hola Mundo?</title>
     <updated>2015-11-05T19:20:00+01:00</updated>
-    <id>tag:,2015-11-05:/www.arkurtect.com/post/2015/11/05/test.html</id>
+    <id>tag:,2015-11-05:/arkurtect.com/post/2015/11/05/test.html</id>
     <content type="html">一个小测验</content>
-    <link href="http:/www.arkurtect.com/post/2015/11/05/test.html"></link>
+    <link href="http:/arkurtect.com/post/2015/11/05/test.html"></link>
     <author>
       <name>Kurt</name>
     </author>
