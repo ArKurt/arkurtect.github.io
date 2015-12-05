@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ArKurtectura</title>
   <id>http://www.arkurtect.com/</id>
-  <updated>2015-12-05T15:50:05+01:00</updated>
+  <updated>2015-12-05T16:52:33+01:00</updated>
   <subtitle>Twist Lick Dip</subtitle>
   <link href="http://www.arkurtect.com/"></link>
   <author>
@@ -38,7 +38,7 @@
     </author>
   </entry>
   <entry>
-    <title>La lista de Alex</title>
+    <title>Una lista de Alex</title>
     <updated>2015-11-13T00:00:00+01:00</updated>
     <id>tag:,2015-11-13:/www.arkurtect.com/post/2015/11/11/alex list.html</id>
     <content type="html">unos arquitectos españoles contemporáneos</content>
