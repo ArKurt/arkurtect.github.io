@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ArKurtectura</title>
   <id>http://www.arkurtect.com/</id>
-  <updated>2015-12-20T14:39:07+01:00</updated>
+  <updated>2016-03-04T19:01:31+02:00</updated>
   <subtitle>Twist Lick Dip</subtitle>
   <link href="http://www.arkurtect.com/"></link>
   <author>
     <name>ArKurtectura</name>
   </author>
   <entry>
+    <title>小手工</title>
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2016/03/04/clamp.html</id>
+    <content type="html">下午空闲时候做了个夹子</content>
+    <link href="http:/www.arkurtect.com/post/2016/03/04/clamp.html"></link>
+    <author>
+      <name>Kurt</name>
+    </author>
+  </entry>
+  <entry>
     <title>日本建筑师人名对照</title>
-    <updated>2015-12-20T13:37:00+01:00</updated>
+    <updated>2015-12-20T14:37:00+02:00</updated>
     <id>tag:,2015-12-20:/www.arkurtect.com/post/2015/12/05/japanese_architects.html</id>
     <content type="html">再也不用担心不认识日本建筑师</content>
     <link href="http:/www.arkurtect.com/post/2015/12/05/japanese_architects.html"></link>
@@ -19,7 +29,7 @@
   </entry>
   <entry>
     <title>一件小事</title>
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>1970-01-01T02:00:00+02:00</updated>
     <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/14/porto_story.html</id>
     <content type="html"></content>
     <link href="http:/www.arkurtect.com/post/2015/11/14/porto_story.html"></link>
@@ -29,17 +39,17 @@
   </entry>
   <entry>
     <title>听听看看</title>
-    <updated>1970-01-01T01:00:00+01:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/11/mana.html</id>
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/12/mana.html</id>
     <content type="html">最近在听的</content>
-    <link href="http:/www.arkurtect.com/post/2015/11/11/mana.html"></link>
+    <link href="http:/www.arkurtect.com/post/2015/11/12/mana.html"></link>
     <author>
       <name>Kurt</name>
     </author>
   </entry>
   <entry>
     <title>Una lista de Alex</title>
-    <updated>2015-11-13T00:00:00+01:00</updated>
+    <updated>2015-11-13T01:00:00+02:00</updated>
     <id>tag:,2015-11-13:/www.arkurtect.com/post/2015/11/11/lista_alex.html</id>
     <content type="html">unos arquitectos españoles contemporáneos</content>
     <link href="http:/www.arkurtect.com/post/2015/11/11/lista_alex.html"></link>
@@ -49,7 +59,7 @@
   </entry>
   <entry>
     <title>¿Hola Mundo?</title>
-    <updated>2015-11-05T19:20:00+01:00</updated>
+    <updated>2015-11-05T20:20:00+02:00</updated>
     <id>tag:,2015-11-05:/www.arkurtect.com/post/2015/11/05/test.html</id>
     <content type="html">一个小测验</content>
     <link href="http:/www.arkurtect.com/post/2015/11/05/test.html"></link>
