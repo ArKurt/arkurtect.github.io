@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>ArKurtectura</title>
-  <id>http://www.arkurtect.com/blog</id>
-  <updated>2016-11-11T00:43:32+02:00</updated>
+  <id>http://www.arkurtect.com</id>
+  <updated>2016-11-11T00:46:59+02:00</updated>
   <subtitle>Twist Lick Dip</subtitle>
-  <link href="http://www.arkurtect.com/blog"></link>
+  <link href="http://www.arkurtect.com"></link>
   <author>
     <name>ArKurtectura</name>
   </author>
   <entry>
     <title>一些事务所</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2016/10/25/fml.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2016/10/25/fml.html</id>
     <content type="html"></content>
-    <link href="http:/www.arkurtect.com/blog/post/2016/10/25/fml.html"></link>
+    <link href="http:/www.arkurtect.com/post/2016/10/25/fml.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -20,9 +20,9 @@
   <entry>
     <title>This life is too good to have and we are too young to</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2016/09/23/life_is_too_good_to_have.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2016/09/23/life_is_too_good_to_have.html</id>
     <content type="html"></content>
-    <link href="http:/www.arkurtect.com/blog/post/2016/09/23/life_is_too_good_to_have.html"></link>
+    <link href="http:/www.arkurtect.com/post/2016/09/23/life_is_too_good_to_have.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -30,9 +30,9 @@
   <entry>
     <title>need a cape</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2016/03/28/need_a_cape.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2016/03/28/need_a_cape.html</id>
     <content type="html"></content>
-    <link href="http:/www.arkurtect.com/blog/post/2016/03/28/need_a_cape.html"></link>
+    <link href="http:/www.arkurtect.com/post/2016/03/28/need_a_cape.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -40,9 +40,9 @@
   <entry>
     <title>小手工</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2016/03/04/clamp.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2016/03/04/clamp.html</id>
     <content type="html">下午空闲时候做了个夹子</content>
-    <link href="http:/www.arkurtect.com/blog/post/2016/03/04/clamp.html"></link>
+    <link href="http:/www.arkurtect.com/post/2016/03/04/clamp.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -50,9 +50,9 @@
   <entry>
     <title>日本建筑师人名对照</title>
     <updated>2015-12-20T14:37:00+02:00</updated>
-    <id>tag:,2015-12-20:/www.arkurtect.com/blog/post/2015/12/05/japanese_architects.html</id>
+    <id>tag:,2015-12-20:/www.arkurtect.com/post/2015/12/05/japanese_architects.html</id>
     <content type="html">再也不用担心不认识日本建筑师</content>
-    <link href="http:/www.arkurtect.com/blog/post/2015/12/05/japanese_architects.html"></link>
+    <link href="http:/www.arkurtect.com/post/2015/12/05/japanese_architects.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -60,9 +60,9 @@
   <entry>
     <title>一件小事</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2015/11/14/porto_story.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/14/porto_story.html</id>
     <content type="html"></content>
-    <link href="http:/www.arkurtect.com/blog/post/2015/11/14/porto_story.html"></link>
+    <link href="http:/www.arkurtect.com/post/2015/11/14/porto_story.html"></link>
     <author>
       <name>Kurt</name>
     </author>
@@ -70,9 +70,9 @@
   <entry>
     <title>听听看看</title>
     <updated>1970-01-01T02:00:00+02:00</updated>
-    <id>tag:,1970-01-01:/www.arkurtect.com/blog/post/2015/11/12/mana.html</id>
+    <id>tag:,1970-01-01:/www.arkurtect.com/post/2015/11/12/mana.html</id>
     <content type="html">最近在听的</content>
-    <link href="http:/www.arkurtect.com/blog/post/2015/11/12/mana.html"></link>
+    <link href="http:/www.arkurtect.com/post/2015/11/12/mana.html"></link>
     <author>
       <name>Kurt</name>
     </author>
